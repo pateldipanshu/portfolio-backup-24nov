@@ -1,0 +1,64 @@
+# Dipanshu Patel
+
+> Dipanshu Patel is a Junior Web Developer and MERN full stack developer at WorldWebLogic Pvt. Ltd. in Noida, India. He builds and maintains web applications, dashboards, and business workflows using React, Node.js, Express, and MongoDB.
+
+## Professional Profile
+
+- Current role: Junior Web Developer at WorldWebLogic Pvt. Ltd., Noida (September 2025–present).
+- Previous role: Junior Web Developer Intern at WorldWebLogic Pvt. Ltd., Noida (May–August 2025).
+- Experience includes MERN applications for e-commerce and logistics, REST API integration, responsive interfaces, UI performance improvements, and collaboration with cross-functional teams.
+- Portfolio focus: full-stack web applications, business dashboards, e-commerce, logistics workflows, and employee management systems.
+
+## Technical Skills
+
+- Frontend: React.js, JavaScript (ES6+), HTML5, CSS3, Bootstrap, Tailwind CSS.
+- Backend and APIs: Node.js, Express.js, REST APIs, Socket.io, Electron.js.
+- Databases: MongoDB, Microsoft SQL Server.
+- DevOps and developer tools: Git, GitHub, Vite. The portfolio does not list a specific CI/CD or cloud platform skill.
+
+## Selected Projects
+
+- [HRMS — Human Resource Management System](https://wwlhrms.digitalwebguider.com/): Employee management system for attendance and punch-in/out, leave requests and approvals, announcements, task assignments, activity tracking, and role-based Admin, HR, and Employee dashboards. Technologies: MongoDB, Express.js, React, Node.js, Electron.js, Socket.io.
+- [Atal Opticals — E-Commerce Platform](https://ataloptical.org/): E-commerce platform for a sunglasses retailer, with product listings, cart management, and checkout. Technologies: MongoDB, Express.js, React, Node.js, JWT.
+- [Digital WebGuider](https://digitalwebguider.com/): IT company website with reusable React components. Technologies: React, Tailwind CSS, React Router, Vite.
+- Gulf Worldwide Logistics: MERN dashboard for import-export shipping operations, shipment tracking, and logistics workflows. No public project URL is listed in the portfolio.
+- [Shifra AI](https://pateldipanshu.github.io/shifra_ai/): Conversational assistant using the Google Gemini API. Technologies: React, JavaScript, Gemini API.
+
+## Education
+
+- B.Tech in Computer Science, Maharaja Agrasen College of Engineering and Technology, Amroha, Uttar Pradesh (AKTU Lucknow), 2020–2024.
+- Higher Secondary (12th), Govt. Jubilee Inter College, Lucknow, UP Board, 2019–2020.
+- Secondary (10th), Smt. Ram Dulari Talukedariya Inter College, Raebareli, Uttar Pradesh, completed 2018.
+
+## Certifications
+
+- TCS ION Career Edge — IT for Non-IT, 2025.
+- TCS Group Discussion, 2025.
+- React.js Training, Ducat India, July–December 2024.
+- JavaScript Certification, KG Coding, June 2024.
+
+## Portfolio Pages
+
+- [Home](https://pateldipanshu.github.io/): Profile summary and featured work.
+- [Projects](https://pateldipanshu.github.io/projects): Selected applications and project descriptions.
+- [Skills](https://pateldipanshu.github.io/skills): Technical skills.
+- [About and Education](https://pateldipanshu.github.io/about): Background and education.
+- [Certificates](https://pateldipanshu.github.io/certificates): Certificate gallery.
+- [Blog](https://pateldipanshu.github.io/blog): Notes on development projects and office HRMS workflows.
+- [Resume](https://pateldipanshu.github.io/resume): Resume page.
+- [Resume PDF](https://pateldipanshu.github.io/resume.pdf): Downloadable resume.
+- [Contact](https://pateldipanshu.github.io/contact): Contact options.
+- [Gallery](https://pateldipanshu.github.io/gallery): Portfolio gallery.
+
+## Professional Links
+
+- [GitHub](https://github.com/pateldipanshu)
+- [Instagram](https://www.instagram.com/dipanshupatelisthebest)
+- Email: [dipanshupatel857@gmail.com](mailto:dipanshupatel857@gmail.com)
+- Phone: +91 6388208718
+- Location: Noida, Uttar Pradesh, India.
+
+## Optional
+
+- [Robots policy](https://pateldipanshu.github.io/robots.txt)
+- [XML sitemap](https://pateldipanshu.github.io/sitemap.xml)
