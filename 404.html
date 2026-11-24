@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="robots" content="noindex" />
+    <title>Redirecting — Dipanshu Patel Portfolio</title>
+    <script>
+      const requestedRoute = `${window.location.pathname}${window.location.search}${window.location.hash}`;
+
+      try {
+        if (requestedRoute !== '/') {
+          window.sessionStorage.setItem('redirect', requestedRoute);
+        }
+      } catch {
+        // Fall back to the home page if session storage is unavailable.
+      }
+
+      window.location.replace('/');
+    </script>
+  </head>
+  <body>
+    <p>Redirecting to the requested portfolio page…</p>
+  </body>
+</html>
